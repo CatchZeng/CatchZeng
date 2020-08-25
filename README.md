@@ -4,6 +4,12 @@
 
 I am a boy who likes :iphone: mobile and :computer: server development. I like to build some :hammer: tools to improve development efficiency.
 
+### 😄 Blog
+
+- <https://makeoptim.com/>
+- <https://catchzeng.com/>
+
+
 The following are my recent research areas.
 
 - [Kubernetes](https://kubernetes.io/)
