@@ -7,8 +7,6 @@ I am a boy who likes :iphone: mobile and :computer: server development. I like t
 ### 😄 Blog
 
 - <https://makeoptim.com/>
-- <https://catchzeng.com/>
-
 
 The following are my recent research areas.
 
