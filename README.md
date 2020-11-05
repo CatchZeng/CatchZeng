@@ -1,4 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=catchzeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=catchzeng&show_icons=true&theme=blue-green&hide_title=true" />
+
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=catchzeng&hide=c%2B%2B,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
 
 ### Hello, World!👋
 
