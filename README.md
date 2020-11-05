@@ -2,8 +2,6 @@
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=catchzeng&hide=c%2B%2B,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
 
-<br />
-
 ### Hello, World!👋
 
 I am a boy who likes :iphone: mobile and :computer: server development. I like to build some :hammer: tools to improve development efficiency.
