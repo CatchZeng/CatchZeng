@@ -4,7 +4,7 @@
 
 ### Hello, World!👋
 
-I am a boy who likes :iphone: mobile and :computer: server development. I like to build some :hammer: tools to improve development efficiency.
+I am a boy who likes :computer: deep learning, :iphone: mobile and :computer: server development. I like to build some :hammer: tools to improve development efficiency.
 
 ### 😄 Blog
 
@@ -12,9 +12,10 @@ I am a boy who likes :iphone: mobile and :computer: server development. I like t
 
 The following are my recent research areas.
 
+- [TensorFlow](https://tensorflow.google.cn/)
 - [Kubernetes](https://kubernetes.io/)
 - [Istio](https://istio.io/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Vision](https://developer.apple.com/documentation/vision/)
 - [OpenCV](https://opencv.org/)
-- [TensorFlow](https://tensorflow.google.cn/)
+
