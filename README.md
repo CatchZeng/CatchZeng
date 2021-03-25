@@ -10,7 +10,7 @@ I am a boy who likes 💻 deep learning, 📱 mobile, and 💻 server developmen
 
 - <https://makeoptim.com/>
 
-The following are my recent research areas.
+Research Areas
 
 - [TensorFlow](https://tensorflow.google.cn/)
 - [Kubernetes](https://kubernetes.io/)
