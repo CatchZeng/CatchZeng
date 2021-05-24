@@ -4,7 +4,7 @@
 
 ### Hello, World!👋
 
-I am a boy who likes 💻 deep learning, 📱 mobile, and 💻 server development. I like to build some 🔨 tools to improve development efficiency.
+AI (Machine Learning) and DevOps enthusiast.
 
 ### 😄 Blog
 
