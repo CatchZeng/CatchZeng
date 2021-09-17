@@ -21,6 +21,6 @@ AI (Machine Learning) and DevOps enthusiast.
 
 ## Qualifications
 
-- Google Analytics
+- Google Analytics Individual Qualification certification
 
-![](https://cdn.jsdelivr.net/gh/MakeOptim/jsdelivr@main/assets/img/google/gaiq/gaiq.jpg)
+<img src="https://cdn.jsdelivr.net/gh/MakeOptim/jsdelivr@main/assets/img/google/gaiq/gaiq.jpg" width="300" align="middle" />
