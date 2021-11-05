@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm CatchZeng
 
-A full stack engineer who is passionate about AI (Machine Learning) and DevOps.
+A full-stack engineer who is passionate about AI (Machine Learning) and DevOps.
 
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
