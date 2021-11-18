@@ -157,7 +157,7 @@ A full-stack engineer who is passionate about AI (Machine Learning) and DevOps.
 
 <https://makeoptim.com/>
 
-## Projects
+## 🎬 Projects
 
 ### [Neural Style Transfer Online & Free Tool](https://style-transfer.makeoptim.com)
 
