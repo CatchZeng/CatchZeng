@@ -66,7 +66,15 @@ A full-stack engineer who is passionate about AI (Machine Learning) and DevOps.
       width="40"
       height="40"
     />
-  </a>  
+  </a>
+  <a href="https://threejs.org/" target="_blank">
+    <img
+      src="https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png"
+      alt="Three.js"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://developer.apple.com/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png"
